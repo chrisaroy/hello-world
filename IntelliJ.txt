@@ -1,0 +1,8 @@
+IntelliJ
+
+IntelliJ is a free IDE for developing Java apps.
+
+- Install Oracle JDK 6 or later
+
+- Download and install the free version from the website.
+
