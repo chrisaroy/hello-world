@@ -6,3 +6,5 @@ IntelliJ is a free IDE for developing Java apps.
 
 - Download and install the free version from the website.
 
+<EOF>
+
